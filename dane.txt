@@ -1,0 +1,25 @@
+m=1
+n=3
+m+n
+2+6
+show
+erase n
+show
+b=5
+cc=6
+ll=9
+show
+erase cc, ll
+show
+dump zapis.txt
+16+8*5
+8/4
+12-6
+reset
+show
+zmienna_1=36+14
+zmienna_2=2
+zmienna_3=zmienna_1/zmienna_2
+show
+dump zapis_2.txt
+load test.txt
