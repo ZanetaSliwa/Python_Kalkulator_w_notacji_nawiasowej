@@ -1,0 +1,8 @@
+22/2
+z_1=13+9
+z_2=(10/2)+5
+z_3=12
+show
+z_4=z_1+z_2+z_3
+show
+dump zapis_n_1.txt
